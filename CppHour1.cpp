@@ -1,24 +1,15 @@
 #include <iostream>
 using namespace std;
 
-int main(int argc,char** argv){   
-   
-    cout<<"Enter numbers ";
-    int InputNums =0;
-    cin>>InputNums;
+int main(){
+    int Original =30;
+    int* pOriginal = &Original;
+    cout<<"Original "<<hex<<&Original<<endl;
+    cout<<"pOriginal "<<hex<<pOriginal<<endl;
+    cout<<"&pOriginal "<<hex<<&pOriginal<<endl;
 
-    int* pNumbers = new int[InputNums];
-    int* pCopy = pNumbers;
+    int& Ref = Original;
+    cout<<"Ref "<<hex<<&Ref<<endl;
+    cout<<"Ref value"<<dec<<Ref<<endl;  
 
-    for(int Index=0;Index<InputNums;++Index){
-        cout<<"Enter number ";
-        cin>>*(pNumbers+Index);
-        //cin>>pNumbers[Index];
-    }
-
-    for(int Index=0,b=0;Index<InputNums;++Index)
-        cout<<*(pCopy++)<<" ";
-
-    delete[] pNumbers;
-    return 0;
 }
