@@ -9,6 +9,7 @@ class PS4{
         int numberOfControllers;
         string version;
         string color;
+        char* Buffer;
     public:
         //default constructor
         PS4(){}
@@ -20,6 +21,8 @@ class PS4{
         {
 
         }
+
+        //PS4(const char* )
 
         //getter
         string getVersion(){return version;}

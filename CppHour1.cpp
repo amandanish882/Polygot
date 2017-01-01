@@ -10,6 +10,8 @@ int main(){
 
     int& Ref = Original;
     cout<<"Ref "<<hex<<&Ref<<endl;
-    cout<<"Ref value"<<dec<<Ref<<endl;  
+    cout<<"Ref value"<<dec<<Ref<<endl;
+
+    const int* pInt = NULL;  
 
 }
