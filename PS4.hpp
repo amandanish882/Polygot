@@ -17,14 +17,17 @@ class PS4{
         //PS4(){}
         PS4();
         PS4(string version,string color,int numberOfControllers=1);
-        PS4(const char* InputOwner);       
+        PS4(const char* InputOwner);
+
+        //default destructor
+        ~PS4();
 
         //getter
         string getVersion(){return version;}
         string getColor(){return color;}
         int getNumberOfControllers(){return numberOfControllers;}
         const char* getOwner(){return Owner;}
-
+        
 };
 
 #endif

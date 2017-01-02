@@ -1,4 +1,7 @@
 #include "PS4.hpp"
+#include <iostream>
+
+using namespace std;
 
 PS4::PS4(){}
 PS4::PS4(string version,string color,int numberOfControllers):
@@ -17,4 +20,12 @@ PS4::PS4(const char* InputOwner){
             else
                 Owner = NULL;
 
+            cout<<"Strength length "<<strlen(Owner)<<endl;
+}
+
+PS4::~PS4(){
+    cout<<"Destructor\n";
+    if(Owner!=NULL){
+        delete[] Owner; 
+    }
 }

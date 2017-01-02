@@ -12,6 +12,10 @@ int main(){
     cout<<"Ref "<<hex<<&Ref<<endl;
     cout<<"Ref value"<<dec<<Ref<<endl;
 
-    const int* pInt = NULL;  
+    const int* pInt = NULL;
+    const char* c;
+    char charac1 = 't';
+    c = &charac1;
+    cout<<hex<<&charac1<<endl;
 
 }
