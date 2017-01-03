@@ -16,8 +16,9 @@ class PS4{
         //default constructor
         //PS4(){}
         PS4();
-        PS4(string version,string color,int numberOfControllers=1);
+        PS4(string version,string color,int numberOfControllers=1,string InputOwner = "Default");
         PS4(const char* InputOwner);
+        PS4(const PS4& copysource);
 
         //default destructor
         ~PS4();

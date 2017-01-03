@@ -4,13 +4,11 @@ using namespace std;
 
 void isCool(PS4 ps4);
 
-int main(){
-    PS4* p2 = new PS4("Tjisana");    
-    cout<<p2->getOwner()<<endl;
-    PS4 p3("pro","white");
-    cout<<p3.getVersion()<<endl;
-    isCool(p3);
-    delete p2;
+int main(){    
+    //PS4 johann("johann");    
+    //isCool(johann);
+    PS4 Tj("pro","white");
+    isCool(Tj);
     return 0;
 }
 
