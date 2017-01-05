@@ -2,17 +2,15 @@
 #include <ctype.h>
 
 int main(int argc, char const *argv[]) {
-  char c;
+  char c,prevChar;
   int cntNewlines=0,cntWords=0,cntChars=0,cntSpaces=0;
   const int exitcode = EOF;
 
   while ((c=getchar()) != exitcode) {
     ++cntChars;
     switch (isalnum(c)) { //outer switch
-      case 0://is alphanumeric
-        break;
-      default:
-        switch (c) {//inner switch
+      case 0://is NOT alphanumeric
+        switch(c){
           case '\n':
             ++cntNewlines;
             break;
@@ -21,19 +19,16 @@ int main(int argc, char const *argv[]) {
             break;
         }
         break;
-
-    }
-    // switch (c) {
-    //   case '\n':
-    //     ++cntNewlines;
-    //     break;
-    //   case ' ':
-    //     ++cntSpaces;
-    //     ++cntWords;
-    //     break;
-    // }
+      default://is alphanumeric
+        if(prevChar==' ' || prevChar=='\n' )
+          ++cntWords;
+        break;
+    }    
+    prevChar = c;
   }
+  if(c==exitcode && isalnum(prevChar))
+    ++cntWords;
 
-  printf("NewLines %d\nSpaces %d\nWords %d\nCharacters %d\n",cntNewlines,cntSpaces,cntWords,cntChars );
+  printf("\nNewLines %d\nSpaces %d\nWords %d\nCharacters %d\n",cntNewlines,cntSpaces,cntWords,cntChars );
   return 0;
 }
