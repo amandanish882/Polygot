@@ -1,0 +1,5 @@
+no new line at the end of file
+http://stackoverflow.com/questions/72271/no-newline-at-end-of-file-compiler-warning
+
+what is stringstream
+https://www.quora.com/What-is-stringstream-in-C++
