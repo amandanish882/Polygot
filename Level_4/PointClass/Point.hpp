@@ -2,6 +2,7 @@
 #define POINTHPP
 
 #include <string>
+#include <iostream>
 
 class Point{
     private:
@@ -10,6 +11,7 @@ class Point{
     public:
         Point();
         Point(double x,double y);
+        explicit Point(double d);
         Point(const Point& point);
         virtual ~Point();
         double X() const {return m_x;}
@@ -21,6 +23,17 @@ class Point{
     //functions
     double Distance() const;
     double Distance(const Point& p) const;
+
+    //operator overloading
+    Point operator - () const;
+    Point operator * (double factor) const;
+    Point operator + (const Point& p) const;
+    bool operator == (const Point& p) const;
+    Point& operator = (const Point& source);
+    Point& operator *= (double factor);
+
+    //global function overloading
+    friend std::ostream& operator << (std::ostream& os, const Point& point);
 };
 
 #endif

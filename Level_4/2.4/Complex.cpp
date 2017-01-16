@@ -11,6 +11,7 @@
 //
 
 #include "Complex.hpp"
+#include <cmath>
 
 // This could be a STATIC object but that's an optimisation at this stage.
 Complex mpi(const Complex& z)
