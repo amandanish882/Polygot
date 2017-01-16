@@ -71,6 +71,6 @@ Point& Point::operator *= (double factor){
 }
 
 std::ostream& operator << (std::ostream& os, const Point& point){
-    os<<"Point("<<point.m_x<<","<<point.m_y<<")";
+    os<<"Point("<<point.m_x<<","<<point.m_y<<")\n";
     return os;
 }
