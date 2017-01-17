@@ -12,13 +12,14 @@ class Array{
         Array():sz(10),m_data(new Point[sz]){}
         Array(int size):sz(size),m_data(new Point[sz]){}
         Array(const Array& source);
-        ~Array(){delete[] m_data;}
+        virtual ~Array(){delete[] m_data;}
         int Size() const{return sz;}        
-        void SetElement(int element,const Point& point);
-        Point GetElement(int element) const;
+        void SetElement(int index,const Point& point);
+        Point& GetElement(int index) const;
 
         //operator overloading
         Array& operator = (const Array& source);
+        Point& operator [] (int index);
 };
 
 

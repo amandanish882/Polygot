@@ -15,8 +15,15 @@ Array& Array::operator = (const Array& source){
     return *this;
 }
 
-void Array::SetElement(int element,const Point& point){
-    if(element>=sz) return;
-
+void Array::SetElement(int index,const Point& point){
+    if(index<sz)
+        m_data[index] = point;
 }
-//Point GetElement(int element) const;
+
+Point& Array::GetElement(int index) const{
+    return (index>=sz || index<0) ? m_data[0]:m_data[index];    
+}
+
+Point& Array::operator [] (int index){
+    return (index>=sz  || index<0) ? m_data[0]:m_data[index];    
+}
