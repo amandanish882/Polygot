@@ -20,6 +20,7 @@ class Array{
         //operator overloading
         Array& operator = (const Array& source);
         Point& operator [] (int index);
+        const Point& operator [] (int index) const;
 };
 
 

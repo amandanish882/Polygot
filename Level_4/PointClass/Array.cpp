@@ -27,3 +27,7 @@ Point& Array::GetElement(int index) const{
 Point& Array::operator [] (int index){
     return (index>=sz  || index<0) ? m_data[0]:m_data[index];    
 }
+
+const Point& Array::operator [] (int index) const{
+    return (index>=sz  || index<0) ? m_data[0]:m_data[index];
+}
