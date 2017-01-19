@@ -1,5 +1,6 @@
 #include "Array.hpp"
 #include "Point.hpp"
+#include <iostream>
 
 Array::Array(const Array& source):sz(source.sz),m_data(new Point[sz]){
     for(int i=0;i<source.sz;++i)
@@ -29,5 +30,5 @@ Point& Array::operator [] (int index){
 }
 
 const Point& Array::operator [] (int index) const{
-    return (index>=sz  || index<0) ? m_data[0]:m_data[index];
+    return (index>=sz  || index<0) ? m_data[0]:m_data[index]; //necessary for const opjects
 }
