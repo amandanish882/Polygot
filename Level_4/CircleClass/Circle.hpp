@@ -1,5 +1,5 @@
-#ifndef CLASSHPP
-#define CLASSHPP
+#ifndef CIRCLEHPP
+#define CIRCLEHPP
 
 #include "../PointClass/Point.hpp"
 #include "../LineClass/Line.hpp"
