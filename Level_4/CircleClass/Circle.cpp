@@ -3,6 +3,9 @@
 #include <string>
 #include <cmath>
 
+namespace TK{
+    namespace CAD{
+
 constexpr double pi() { return std::atan(1)*4; }
 
 Circle::Circle(double radius,const Point& center):radius(radius),center(center){
@@ -51,4 +54,7 @@ Circle& Circle::operator = (const Circle& source){
 std::ostream& operator << (std::ostream& os,const Circle& source){
     os<<"Center of circle is "<<source.center<<";Radius is "<<source.radius;
     return os;
+}
+
+    }
 }

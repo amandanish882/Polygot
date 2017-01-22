@@ -2,6 +2,9 @@
 #include "../PointClass/Point.hpp"
 #include <iostream>
 
+using TK::CAD::Line; //could have also used --> using namespace TK::CAD;
+using TK::CAD::Point;
+
 int main(int argc, char** argv){
     
 	Line l1;

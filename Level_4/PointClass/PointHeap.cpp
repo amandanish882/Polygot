@@ -1,5 +1,7 @@
 #include "Point.hpp"
 
+using namespace TK::CAD;
+
 int main(int argc,char** argv){
     Point* pointdefault = new Point;
     Point* pointcoordinates = new Point(2.2,4.4);

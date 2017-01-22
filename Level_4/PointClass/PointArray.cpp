@@ -1,5 +1,7 @@
 #include "Point.hpp"
 
+using namespace TK::CAD;
+
 int main(int argc,char** argv){
     const int MAX = 3;
     Point** arrPoint = new Point*[MAX];    

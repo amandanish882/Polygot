@@ -1,8 +1,8 @@
 #include "Array.hpp"
-#include "Point.hpp"
+#include "../PointClass/Point.hpp"
 
 int main(int argc,char** argv){
-    const Array arr(2);
+    const TK::Containers::Array arr(2);
     std::cout<<arr[0];
     return 0;
 }

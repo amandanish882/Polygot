@@ -3,6 +3,7 @@
 
 using std::cout;
 using std::cin;
+using namespace TK::CAD;
 
 int main(int argc, char** argv){
     //cout<<"Enter x and y separated by space ";
