@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/TestClionREDI.dir/main.cpp.o CMakeFiles/TestClionREDI.dir/Array.cpp.o  -o TestClionREDI 
