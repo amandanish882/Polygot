@@ -13,7 +13,7 @@ namespace TK {
             T* m_data;
             static unsigned int defaultsize;
         public:
-            Array<T>():sz(0),m_data(new T[sz]){}
+            Array<T>():sz(defaultsize),m_data(new T[sz]){}
             Array<T>(int size):sz(size),m_data(new T[sz]){}
             Array<T>(const Array<T>& source);
             virtual ~Array<T>(){delete[] m_data;}
