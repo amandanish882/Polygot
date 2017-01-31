@@ -1,0 +1,4 @@
+for templates you must include template<typename T> before defining the function in the cpp file
+for static member variable 1) define outside the class 2) define in the following way
+template<typename T>
+unsigned int Array<T>::defaultsize = 4;

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/desktop/Polygot/TestClion/Array.cpp
+Array.h
+/home/desktop/Polygot/TestClion/Array.h
+Exceptions.hpp
+/home/desktop/Polygot/TestClion/Exceptions.hpp
+
+/home/desktop/Polygot/TestClion/Array.h
+
+/home/desktop/Polygot/TestClion/Exceptions.cpp
+Exceptions.hpp
+/home/desktop/Polygot/TestClion/Exceptions.hpp
+
+/home/desktop/Polygot/TestClion/Exceptions.hpp
+string
+-
+
+/home/desktop/Polygot/TestClion/main.cpp
+iostream
+-
+Array.cpp
+/home/desktop/Polygot/TestClion/Array.cpp
+

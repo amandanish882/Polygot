@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Level_5"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/desktop/Polygot/Level_5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/desktop/Polygot/Level_5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/desktop/Polygot/Level_5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Level_5">
+				<Option output="/home/desktop/Polygot/Level_5/cmake-build-debug/Level_5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/desktop/Polygot/Level_5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 Level_5"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Level_5/fast">
+				<Option output="/home/desktop/Polygot/Level_5/cmake-build-debug/Level_5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/desktop/Polygot/Level_5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 Level_5/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/desktop/Polygot/Level_5/3.5/CallPayoff.cpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/3.5/CallPayoff.hpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/3.5/Payoff.cpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/3.5/Payoff.hpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/3.5/TestPayoff.cpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/ArrayClass/Array.cpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/ArrayClass/Array.hpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/ArrayClass/Arraymain.cpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/CircleClass/Circle.cpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/CircleClass/Circle.hpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/CircleClass/Circlemain.cpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/Exceptions.cpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/Exceptions.hpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/LineClass/Line.cpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/LineClass/Line.hpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/LineClass/Linemain.cpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/PointClass/Point.cpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/PointClass/Point.hpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/PointClass/PointArray.cpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/PointClass/PointHeap.cpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/PointClass/PointInheritance.cpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/PointClass/Pointmain.cpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/Polymorphism.cpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/ShapeClass/Shape.cpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/ShapeClass/Shape.hpp">
+			<Option target="Level_5"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

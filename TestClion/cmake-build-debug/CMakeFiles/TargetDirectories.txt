@@ -1,0 +1,3 @@
+/home/desktop/Polygot/TestClion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/desktop/Polygot/TestClion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/desktop/Polygot/TestClion/cmake-build-debug/CMakeFiles/TestClion.dir

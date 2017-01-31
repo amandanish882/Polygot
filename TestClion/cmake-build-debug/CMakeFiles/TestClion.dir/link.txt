@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/TestClion.dir/main.cpp.o CMakeFiles/TestClion.dir/Array.cpp.o CMakeFiles/TestClion.dir/Exceptions.cpp.o  -o TestClion 
