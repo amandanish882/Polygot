@@ -123,87 +123,6 @@ TestClion/fast:
 	$(MAKE) -f CMakeFiles/TestClion.dir/build.make CMakeFiles/TestClion.dir/build
 .PHONY : TestClion/fast
 
-Array.o: Array.cpp.o
-
-.PHONY : Array.o
-
-# target to build an object file
-Array.cpp.o:
-	$(MAKE) -f CMakeFiles/TestClion.dir/build.make CMakeFiles/TestClion.dir/Array.cpp.o
-.PHONY : Array.cpp.o
-
-Array.i: Array.cpp.i
-
-.PHONY : Array.i
-
-# target to preprocess a source file
-Array.cpp.i:
-	$(MAKE) -f CMakeFiles/TestClion.dir/build.make CMakeFiles/TestClion.dir/Array.cpp.i
-.PHONY : Array.cpp.i
-
-Array.s: Array.cpp.s
-
-.PHONY : Array.s
-
-# target to generate assembly for a file
-Array.cpp.s:
-	$(MAKE) -f CMakeFiles/TestClion.dir/build.make CMakeFiles/TestClion.dir/Array.cpp.s
-.PHONY : Array.cpp.s
-
-Exceptions.o: Exceptions.cpp.o
-
-.PHONY : Exceptions.o
-
-# target to build an object file
-Exceptions.cpp.o:
-	$(MAKE) -f CMakeFiles/TestClion.dir/build.make CMakeFiles/TestClion.dir/Exceptions.cpp.o
-.PHONY : Exceptions.cpp.o
-
-Exceptions.i: Exceptions.cpp.i
-
-.PHONY : Exceptions.i
-
-# target to preprocess a source file
-Exceptions.cpp.i:
-	$(MAKE) -f CMakeFiles/TestClion.dir/build.make CMakeFiles/TestClion.dir/Exceptions.cpp.i
-.PHONY : Exceptions.cpp.i
-
-Exceptions.s: Exceptions.cpp.s
-
-.PHONY : Exceptions.s
-
-# target to generate assembly for a file
-Exceptions.cpp.s:
-	$(MAKE) -f CMakeFiles/TestClion.dir/build.make CMakeFiles/TestClion.dir/Exceptions.cpp.s
-.PHONY : Exceptions.cpp.s
-
-main.o: main.cpp.o
-
-.PHONY : main.o
-
-# target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/TestClion.dir/build.make CMakeFiles/TestClion.dir/main.cpp.o
-.PHONY : main.cpp.o
-
-main.i: main.cpp.i
-
-.PHONY : main.i
-
-# target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/TestClion.dir/build.make CMakeFiles/TestClion.dir/main.cpp.i
-.PHONY : main.cpp.i
-
-main.s: main.cpp.s
-
-.PHONY : main.s
-
-# target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/TestClion.dir/build.make CMakeFiles/TestClion.dir/main.cpp.s
-.PHONY : main.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -213,15 +132,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... TestClion"
-	@echo "... Array.o"
-	@echo "... Array.i"
-	@echo "... Array.s"
-	@echo "... Exceptions.o"
-	@echo "... Exceptions.i"
-	@echo "... Exceptions.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
 .PHONY : help
 
 

@@ -84,21 +84,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/desktop/Polygot/TestClion/Array.cpp">
-			<Option target="TestClion"/>
-		</Unit>
-		<Unit filename="/home/desktop/Polygot/TestClion/Array.h">
-			<Option target="TestClion"/>
-		</Unit>
-		<Unit filename="/home/desktop/Polygot/TestClion/Exceptions.cpp">
-			<Option target="TestClion"/>
-		</Unit>
-		<Unit filename="/home/desktop/Polygot/TestClion/Exceptions.hpp">
-			<Option target="TestClion"/>
-		</Unit>
-		<Unit filename="/home/desktop/Polygot/TestClion/main.cpp">
-			<Option target="TestClion"/>
-		</Unit>
 		<Unit filename="/home/desktop/Polygot/TestClion/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
