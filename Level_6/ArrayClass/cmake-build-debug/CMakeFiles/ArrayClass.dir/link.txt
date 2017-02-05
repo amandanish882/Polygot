@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/ArrayClass.dir/Array.cpp.o CMakeFiles/ArrayClass.dir/Arraymain.cpp.o CMakeFiles/ArrayClass.dir/home/desktop/Polygot/Level_6/Exceptions.cpp.o CMakeFiles/ArrayClass.dir/NumericArray.cpp.o  -o ArrayClass 

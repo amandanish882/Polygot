@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/desktop/Polygot/Level_6/ArrayClass/Array.cpp
+Array.hpp
+/home/desktop/Polygot/Level_6/ArrayClass/Array.hpp
+../Exceptions.hpp
+/home/desktop/Polygot/Level_6/Exceptions.hpp
+
+/home/desktop/Polygot/Level_6/ArrayClass/Array.hpp
+
+/home/desktop/Polygot/Level_6/ArrayClass/Arraymain.cpp
+Array.cpp
+/home/desktop/Polygot/Level_6/ArrayClass/Array.cpp
+NumericArray.cpp
+/home/desktop/Polygot/Level_6/ArrayClass/NumericArray.cpp
+iostream
+-
+
+/home/desktop/Polygot/Level_6/ArrayClass/NumericArray.cpp
+NumericArray.h
+/home/desktop/Polygot/Level_6/ArrayClass/NumericArray.h
+../Exceptions.hpp
+/home/desktop/Polygot/Level_6/Exceptions.hpp
+
+/home/desktop/Polygot/Level_6/ArrayClass/NumericArray.h
+Array.hpp
+/home/desktop/Polygot/Level_6/ArrayClass/Array.hpp
+
+/home/desktop/Polygot/Level_6/Exceptions.cpp
+Exceptions.hpp
+/home/desktop/Polygot/Level_6/Exceptions.hpp
+
+/home/desktop/Polygot/Level_6/Exceptions.hpp
+string
+-
+

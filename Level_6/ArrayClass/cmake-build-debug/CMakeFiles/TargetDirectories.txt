@@ -1,0 +1,3 @@
+/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/CMakeFiles/ArrayClass.dir
