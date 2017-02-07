@@ -99,6 +99,24 @@
 		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/NumericArray.h">
 			<Option target="ArrayClass"/>
 		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Point.cpp">
+			<Option target="ArrayClass"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Point.hpp">
+			<Option target="ArrayClass"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/PointArray.cpp">
+			<Option target="ArrayClass"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/PointArray.h">
+			<Option target="ArrayClass"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Shape.cpp">
+			<Option target="ArrayClass"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Shape.hpp">
+			<Option target="ArrayClass"/>
+		</Unit>
 		<Unit filename="/home/desktop/Polygot/Level_6/Exceptions.cpp">
 			<Option target="ArrayClass"/>
 		</Unit>

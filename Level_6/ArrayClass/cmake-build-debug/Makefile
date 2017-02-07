@@ -204,6 +204,87 @@ NumericArray.cpp.s:
 	$(MAKE) -f CMakeFiles/ArrayClass.dir/build.make CMakeFiles/ArrayClass.dir/NumericArray.cpp.s
 .PHONY : NumericArray.cpp.s
 
+Point.o: Point.cpp.o
+
+.PHONY : Point.o
+
+# target to build an object file
+Point.cpp.o:
+	$(MAKE) -f CMakeFiles/ArrayClass.dir/build.make CMakeFiles/ArrayClass.dir/Point.cpp.o
+.PHONY : Point.cpp.o
+
+Point.i: Point.cpp.i
+
+.PHONY : Point.i
+
+# target to preprocess a source file
+Point.cpp.i:
+	$(MAKE) -f CMakeFiles/ArrayClass.dir/build.make CMakeFiles/ArrayClass.dir/Point.cpp.i
+.PHONY : Point.cpp.i
+
+Point.s: Point.cpp.s
+
+.PHONY : Point.s
+
+# target to generate assembly for a file
+Point.cpp.s:
+	$(MAKE) -f CMakeFiles/ArrayClass.dir/build.make CMakeFiles/ArrayClass.dir/Point.cpp.s
+.PHONY : Point.cpp.s
+
+PointArray.o: PointArray.cpp.o
+
+.PHONY : PointArray.o
+
+# target to build an object file
+PointArray.cpp.o:
+	$(MAKE) -f CMakeFiles/ArrayClass.dir/build.make CMakeFiles/ArrayClass.dir/PointArray.cpp.o
+.PHONY : PointArray.cpp.o
+
+PointArray.i: PointArray.cpp.i
+
+.PHONY : PointArray.i
+
+# target to preprocess a source file
+PointArray.cpp.i:
+	$(MAKE) -f CMakeFiles/ArrayClass.dir/build.make CMakeFiles/ArrayClass.dir/PointArray.cpp.i
+.PHONY : PointArray.cpp.i
+
+PointArray.s: PointArray.cpp.s
+
+.PHONY : PointArray.s
+
+# target to generate assembly for a file
+PointArray.cpp.s:
+	$(MAKE) -f CMakeFiles/ArrayClass.dir/build.make CMakeFiles/ArrayClass.dir/PointArray.cpp.s
+.PHONY : PointArray.cpp.s
+
+Shape.o: Shape.cpp.o
+
+.PHONY : Shape.o
+
+# target to build an object file
+Shape.cpp.o:
+	$(MAKE) -f CMakeFiles/ArrayClass.dir/build.make CMakeFiles/ArrayClass.dir/Shape.cpp.o
+.PHONY : Shape.cpp.o
+
+Shape.i: Shape.cpp.i
+
+.PHONY : Shape.i
+
+# target to preprocess a source file
+Shape.cpp.i:
+	$(MAKE) -f CMakeFiles/ArrayClass.dir/build.make CMakeFiles/ArrayClass.dir/Shape.cpp.i
+.PHONY : Shape.cpp.i
+
+Shape.s: Shape.cpp.s
+
+.PHONY : Shape.s
+
+# target to generate assembly for a file
+Shape.cpp.s:
+	$(MAKE) -f CMakeFiles/ArrayClass.dir/build.make CMakeFiles/ArrayClass.dir/Shape.cpp.s
+.PHONY : Shape.cpp.s
+
 home/desktop/Polygot/Level_6/Exceptions.o: home/desktop/Polygot/Level_6/Exceptions.cpp.o
 
 .PHONY : home/desktop/Polygot/Level_6/Exceptions.o
@@ -249,6 +330,15 @@ help:
 	@echo "... NumericArray.o"
 	@echo "... NumericArray.i"
 	@echo "... NumericArray.s"
+	@echo "... Point.o"
+	@echo "... Point.i"
+	@echo "... Point.s"
+	@echo "... PointArray.o"
+	@echo "... PointArray.i"
+	@echo "... PointArray.s"
+	@echo "... Shape.o"
+	@echo "... Shape.i"
+	@echo "... Shape.s"
 	@echo "... home/desktop/Polygot/Level_6/Exceptions.o"
 	@echo "... home/desktop/Polygot/Level_6/Exceptions.i"
 	@echo "... home/desktop/Polygot/Level_6/Exceptions.s"

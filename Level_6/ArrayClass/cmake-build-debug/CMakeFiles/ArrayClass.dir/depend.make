@@ -17,6 +17,16 @@ CMakeFiles/ArrayClass.dir/NumericArray.cpp.o: ../NumericArray.cpp
 CMakeFiles/ArrayClass.dir/NumericArray.cpp.o: ../NumericArray.h
 CMakeFiles/ArrayClass.dir/NumericArray.cpp.o: /home/desktop/Polygot/Level_6/Exceptions.hpp
 
+CMakeFiles/ArrayClass.dir/Point.cpp.o: ../Point.cpp
+CMakeFiles/ArrayClass.dir/Point.cpp.o: ../Point.hpp
+CMakeFiles/ArrayClass.dir/Point.cpp.o: ../Shape.hpp
+
+CMakeFiles/ArrayClass.dir/PointArray.cpp.o: ../PointArray.cpp
+CMakeFiles/ArrayClass.dir/PointArray.cpp.o: ../PointArray.h
+
+CMakeFiles/ArrayClass.dir/Shape.cpp.o: ../Shape.cpp
+CMakeFiles/ArrayClass.dir/Shape.cpp.o: ../Shape.hpp
+
 CMakeFiles/ArrayClass.dir/home/desktop/Polygot/Level_6/Exceptions.cpp.o: /home/desktop/Polygot/Level_6/Exceptions.cpp
 CMakeFiles/ArrayClass.dir/home/desktop/Polygot/Level_6/Exceptions.cpp.o: /home/desktop/Polygot/Level_6/Exceptions.hpp
 

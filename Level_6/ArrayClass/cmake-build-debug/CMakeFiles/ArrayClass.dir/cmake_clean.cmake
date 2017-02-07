@@ -3,6 +3,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/ArrayClass.dir/Arraymain.cpp.o"
   "CMakeFiles/ArrayClass.dir/home/desktop/Polygot/Level_6/Exceptions.cpp.o"
   "CMakeFiles/ArrayClass.dir/NumericArray.cpp.o"
+  "CMakeFiles/ArrayClass.dir/PointArray.cpp.o"
+  "CMakeFiles/ArrayClass.dir/Point.cpp.o"
+  "CMakeFiles/ArrayClass.dir/Shape.cpp.o"
   "ArrayClass.pdb"
   "ArrayClass"
 )

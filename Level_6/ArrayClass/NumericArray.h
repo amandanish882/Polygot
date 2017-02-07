@@ -18,7 +18,8 @@ namespace TK{
                 NumericArray(const NumericArray& numericArray);
                 NumericArray& operator= (const NumericArray& numericArray);
                 NumericArray operator* (double factor) const;
-                NumericArray operator+ (const NumericArray& numericArray);
+                NumericArray operator+ (const NumericArray& numericArray) const;
+                double dotproduct(const NumericArray& numericArray) const;
 
         };
     }

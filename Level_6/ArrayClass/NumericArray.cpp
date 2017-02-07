@@ -40,15 +40,21 @@ namespace TK{
         }
 
         template <class T>
-        NumericArray<T> NumericArray<T>::operator+ (const NumericArray<T>& numericArray){
+        NumericArray<T> NumericArray<T>::operator+ (const NumericArray<T>& numericArray) const{
             if(Array<T>::Size() != numericArray.Size()) throw OutOfBoundsExceptions(numericArray.Size());
             NumericArray<T> temp(Array<T>::Size());
-            for(int i=0;i<Array<T>::Size();++i){
-                temp[i] = Array<T>::operator=(i) + numericArray[i];
+            for(int i=0;i<Array<T>::Size();++i)
+                temp[i] = Array<T>::operator[](i) + numericArray[i];
 
             return temp;
-            }
+        }
 
+        template <class T>
+        double NumericArray<T>::dotproduct(const NumericArray& numericArray) const{
+            if(Array<T>::Size() != numericArray.Size()) throw OutOfBoundsExceptions(numericArray.Size());
+            double temp=0.0;
+            for(int i=0;i<numericArray.Size();++i)
+                temp+=Array<T>::operator[](i) * numericArray[i];
         }
 
     }

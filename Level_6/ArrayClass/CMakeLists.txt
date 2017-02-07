@@ -8,6 +8,11 @@ set(SOURCE_FILES
         Array.hpp
         Arraymain.cpp
         ../Exceptions.cpp
-        NumericArray.cpp NumericArray.h)
+        NumericArray.cpp NumericArray.h PointArray.cpp PointArray.h
+        Point.cpp
+        Point.hpp
+        Shape.hpp
+        Shape.cpp
+    )
 
 add_executable(ArrayClass ${SOURCE_FILES})
