@@ -34,10 +34,13 @@ int main(int argc,char** argv){
     cout << endl;
 
     try{
-        NumericArray<int> numericArray;
+        intArray3.dotproduct(intArray4);
 
     }    
     catch(ArrayException& exception){
+        std::cout<<exception.GetMessage();
+    }
+    catch(SizeMismatchException& exception){
         std::cout<<exception.GetMessage();
     }
     return 0;
