@@ -19,4 +19,17 @@ class OutOfBoundsExceptions : public ArrayException {
         int index;
 };
 
+class SizeMismatchException : public ArrayException{
+    public:
+        SizeMismatchException(){}
+        SizeMismatchException(unsigned int i1,unsigned int i2):index1(i1),index2(i2){}
+        ~SizeMismatchException(){}
+        std::string GetMessage() const;
+
+
+    private:
+        unsigned int index1;
+        unsigned int index2;
+};
+
 #endif
