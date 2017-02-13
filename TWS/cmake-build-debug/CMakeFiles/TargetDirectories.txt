@@ -1,3 +1,0 @@
-/home/desktop/Polygot/TWS/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/desktop/Polygot/TWS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/desktop/Polygot/TWS/cmake-build-debug/CMakeFiles/TWS.dir
