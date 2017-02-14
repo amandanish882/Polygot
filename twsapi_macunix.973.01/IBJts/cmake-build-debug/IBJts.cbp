@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="IBJts" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="TestCppClient">
+         <Option output="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/TestCppClient" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 TestCppClient" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="TestCppClient/fast">
+         <Option output="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/TestCppClient" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 TestCppClient/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/samples/Cpp/TestCppClient/AccountSummaryTags.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/samples/Cpp/TestCppClient/AccountSummaryTags.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/samples/Cpp/TestCppClient/AvailableAlgoParams.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/samples/Cpp/TestCppClient/AvailableAlgoParams.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/samples/Cpp/TestCppClient/ContractSamples.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/samples/Cpp/TestCppClient/ContractSamples.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/samples/Cpp/TestCppClient/FAMethodSamples.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/samples/Cpp/TestCppClient/Main.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/samples/Cpp/TestCppClient/OrderSamples.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/samples/Cpp/TestCppClient/OrderSamples.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/samples/Cpp/TestCppClient/ScannerSubscriptionSamples.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/samples/Cpp/TestCppClient/ScannerSubscriptionSamples.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/samples/Cpp/TestCppClient/StdAfx.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/samples/Cpp/TestCppClient/StdAfx.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/samples/Cpp/TestCppClient/TestCppClient.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/samples/Cpp/TestCppClient/TestCppClient.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/CommissionReport.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/CommonDefs.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/Contract.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/ContractCondition.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/ContractCondition.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/DefaultEWrapper.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/DefaultEWrapper.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/DepthMktDataDescription.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EClient.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EClient.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EClientMsgSink.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EClientSocket.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EClientSocket.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EDecoder.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EDecoder.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EMessage.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EMessage.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EMutex.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EMutex.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EPosixClientSocketPlatform.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EReader.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EReader.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EReaderOSSignal.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EReaderOSSignal.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EReaderSignal.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EReaderWMSignal.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EReaderWMSignal.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/ESocket.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/ESocket.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/ETransport.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/EWrapper.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/Execution.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/FamilyCode.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/IExternalizable.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/MarginCondition.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/MarginCondition.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/OperatorCondition.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/OperatorCondition.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/Order.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/OrderCondition.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/OrderCondition.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/OrderState.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/PercentChangeCondition.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/PercentChangeCondition.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/PriceCondition.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/PriceCondition.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/Resource.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/ScannerSubscription.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/SoftDollarTier.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/SoftDollarTier.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/StdAfx.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/StdAfx.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/TagValue.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/TickAttrib.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/TimeCondition.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/TimeCondition.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/TwsSocketClientErrors.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/VolumeCondition.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/VolumeCondition.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/executioncondition.cpp">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/executioncondition.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/source/CppClient/client/shared_ptr.h">
+         <Option target="TestCppClient"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Downloads/twsapi_macunix.973.01/IBJts/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

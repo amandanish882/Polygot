@@ -1,0 +1,4 @@
+/home/tjisana/Polygot/twsapi_macunix.973.01/IBJts/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tjisana/Polygot/twsapi_macunix.973.01/IBJts/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tjisana/Polygot/twsapi_macunix.973.01/IBJts/cmake-build-debug/CMakeFiles/TKtradingapp.out.dir
+/home/tjisana/Polygot/twsapi_macunix.973.01/IBJts/cmake-build-debug/CMakeFiles/TestCppClient.out.dir
