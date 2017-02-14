@@ -51,7 +51,7 @@ namespace TK{
 
         template <class T>
         double NumericArray<T>::dotproduct(const NumericArray& numericArray) const{
-            if(Array<T>::Size() != numericArray.Size()) throw OutOfBoundsExceptions(numericArray.Size());
+            if(Array<T>::Size() != numericArray.Size()) throw SizeMismatchException(Array<T>::Size(),numericArray.Size());
             double temp=0.0;
             for(int i=0;i<numericArray.Size();++i)
                 temp+=Array<T>::operator[](i) * numericArray[i];

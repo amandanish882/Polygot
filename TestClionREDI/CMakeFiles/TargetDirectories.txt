@@ -1,0 +1,3 @@
+/home/kerrt/Downloads/Polygot/TestClionREDI/CMakeFiles/edit_cache.dir
+/home/kerrt/Downloads/Polygot/TestClionREDI/CMakeFiles/rebuild_cache.dir
+/home/kerrt/Downloads/Polygot/TestClionREDI/CMakeFiles/a.out.dir

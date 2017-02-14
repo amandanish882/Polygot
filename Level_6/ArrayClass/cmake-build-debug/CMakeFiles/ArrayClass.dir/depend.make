@@ -21,8 +21,11 @@ CMakeFiles/ArrayClass.dir/Point.cpp.o: ../Point.cpp
 CMakeFiles/ArrayClass.dir/Point.cpp.o: ../Point.hpp
 CMakeFiles/ArrayClass.dir/Point.cpp.o: ../Shape.hpp
 
+CMakeFiles/ArrayClass.dir/PointArray.cpp.o: ../Array.hpp
+CMakeFiles/ArrayClass.dir/PointArray.cpp.o: ../Point.hpp
 CMakeFiles/ArrayClass.dir/PointArray.cpp.o: ../PointArray.cpp
 CMakeFiles/ArrayClass.dir/PointArray.cpp.o: ../PointArray.h
+CMakeFiles/ArrayClass.dir/PointArray.cpp.o: ../Shape.hpp
 
 CMakeFiles/ArrayClass.dir/Shape.cpp.o: ../Shape.cpp
 CMakeFiles/ArrayClass.dir/Shape.cpp.o: ../Shape.hpp

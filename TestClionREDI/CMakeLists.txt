@@ -1,7 +1,9 @@
-cmake_minimum_required(VERSION 3.6)
+cmake_minimum_required(VERSION 3.5.1)
 project(TestClionREDI)
 
 set(CMAKE_CXX_STANDARD 11)
+set(SOURCE_FILES maintest.cpp)
 
-set(SOURCE_FILES main.cpp Array.cpp Array.h)
-add_executable(TestClionREDI ${SOURCE_FILES} Array.cpp Array.h)
+set (CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -pedantic -g")
+
+add_executable (a.out ${SOURCE_FILES})

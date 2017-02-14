@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -pedantic -g   CMakeFiles/a.out.dir/maintest.cpp.o  -o a.out 

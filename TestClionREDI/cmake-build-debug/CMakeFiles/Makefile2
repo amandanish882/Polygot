@@ -60,39 +60,39 @@ CMAKE_SOURCE_DIR = /home/kerrt/Downloads/Polygot/TestClionREDI
 CMAKE_BINARY_DIR = /home/kerrt/Downloads/Polygot/TestClionREDI/cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/TestClionREDI.dir
+# Target rules for target CMakeFiles/a.out.dir
 
 # All Build rule for target.
-CMakeFiles/TestClionREDI.dir/all:
-	$(MAKE) -f CMakeFiles/TestClionREDI.dir/build.make CMakeFiles/TestClionREDI.dir/depend
-	$(MAKE) -f CMakeFiles/TestClionREDI.dir/build.make CMakeFiles/TestClionREDI.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/kerrt/Downloads/Polygot/TestClionREDI/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target TestClionREDI"
-.PHONY : CMakeFiles/TestClionREDI.dir/all
+CMakeFiles/a.out.dir/all:
+	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/depend
+	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/kerrt/Downloads/Polygot/TestClionREDI/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target a.out"
+.PHONY : CMakeFiles/a.out.dir/all
 
 # Include target in all.
-all: CMakeFiles/TestClionREDI.dir/all
+all: CMakeFiles/a.out.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/TestClionREDI.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kerrt/Downloads/Polygot/TestClionREDI/cmake-build-debug/CMakeFiles 3
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/TestClionREDI.dir/all
+CMakeFiles/a.out.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kerrt/Downloads/Polygot/TestClionREDI/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/a.out.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/kerrt/Downloads/Polygot/TestClionREDI/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/TestClionREDI.dir/rule
+.PHONY : CMakeFiles/a.out.dir/rule
 
 # Convenience name for target.
-TestClionREDI: CMakeFiles/TestClionREDI.dir/rule
+a.out: CMakeFiles/a.out.dir/rule
 
-.PHONY : TestClionREDI
-
-# clean rule for target.
-CMakeFiles/TestClionREDI.dir/clean:
-	$(MAKE) -f CMakeFiles/TestClionREDI.dir/build.make CMakeFiles/TestClionREDI.dir/clean
-.PHONY : CMakeFiles/TestClionREDI.dir/clean
+.PHONY : a.out
 
 # clean rule for target.
-clean: CMakeFiles/TestClionREDI.dir/clean
+CMakeFiles/a.out.dir/clean:
+	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/clean
+.PHONY : CMakeFiles/a.out.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/a.out.dir/clean
 
 .PHONY : clean
 

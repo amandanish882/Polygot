@@ -12,7 +12,7 @@ using namespace TK::CAD;
 using namespace TK::Containers;
 
 template<typename T=Point>
-class PointArray : public Array {
+class PointArray : public Array<T> {
     public:
         PointArray();
         ~PointArray();
