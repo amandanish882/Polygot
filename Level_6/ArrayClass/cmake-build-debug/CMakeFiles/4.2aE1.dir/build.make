@@ -201,9 +201,57 @@ CMakeFiles/4.2aE1.dir/Shape.cpp.o.provides: CMakeFiles/4.2aE1.dir/Shape.cpp.o.re
 CMakeFiles/4.2aE1.dir/Shape.cpp.o.provides.build: CMakeFiles/4.2aE1.dir/Shape.cpp.o
 
 
+CMakeFiles/4.2aE1.dir/Stack.cpp.o: CMakeFiles/4.2aE1.dir/flags.make
+CMakeFiles/4.2aE1.dir/Stack.cpp.o: ../Stack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/4.2aE1.dir/Stack.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/4.2aE1.dir/Stack.cpp.o -c /home/desktop/Polygot/Level_6/ArrayClass/Stack.cpp
+
+CMakeFiles/4.2aE1.dir/Stack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/4.2aE1.dir/Stack.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/desktop/Polygot/Level_6/ArrayClass/Stack.cpp > CMakeFiles/4.2aE1.dir/Stack.cpp.i
+
+CMakeFiles/4.2aE1.dir/Stack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/4.2aE1.dir/Stack.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/desktop/Polygot/Level_6/ArrayClass/Stack.cpp -o CMakeFiles/4.2aE1.dir/Stack.cpp.s
+
+CMakeFiles/4.2aE1.dir/Stack.cpp.o.requires:
+
+.PHONY : CMakeFiles/4.2aE1.dir/Stack.cpp.o.requires
+
+CMakeFiles/4.2aE1.dir/Stack.cpp.o.provides: CMakeFiles/4.2aE1.dir/Stack.cpp.o.requires
+	$(MAKE) -f CMakeFiles/4.2aE1.dir/build.make CMakeFiles/4.2aE1.dir/Stack.cpp.o.provides.build
+.PHONY : CMakeFiles/4.2aE1.dir/Stack.cpp.o.provides
+
+CMakeFiles/4.2aE1.dir/Stack.cpp.o.provides.build: CMakeFiles/4.2aE1.dir/Stack.cpp.o
+
+
+CMakeFiles/4.2aE1.dir/StackException.cpp.o: CMakeFiles/4.2aE1.dir/flags.make
+CMakeFiles/4.2aE1.dir/StackException.cpp.o: ../StackException.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/4.2aE1.dir/StackException.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/4.2aE1.dir/StackException.cpp.o -c /home/desktop/Polygot/Level_6/ArrayClass/StackException.cpp
+
+CMakeFiles/4.2aE1.dir/StackException.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/4.2aE1.dir/StackException.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/desktop/Polygot/Level_6/ArrayClass/StackException.cpp > CMakeFiles/4.2aE1.dir/StackException.cpp.i
+
+CMakeFiles/4.2aE1.dir/StackException.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/4.2aE1.dir/StackException.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/desktop/Polygot/Level_6/ArrayClass/StackException.cpp -o CMakeFiles/4.2aE1.dir/StackException.cpp.s
+
+CMakeFiles/4.2aE1.dir/StackException.cpp.o.requires:
+
+.PHONY : CMakeFiles/4.2aE1.dir/StackException.cpp.o.requires
+
+CMakeFiles/4.2aE1.dir/StackException.cpp.o.provides: CMakeFiles/4.2aE1.dir/StackException.cpp.o.requires
+	$(MAKE) -f CMakeFiles/4.2aE1.dir/build.make CMakeFiles/4.2aE1.dir/StackException.cpp.o.provides.build
+.PHONY : CMakeFiles/4.2aE1.dir/StackException.cpp.o.provides
+
+CMakeFiles/4.2aE1.dir/StackException.cpp.o.provides.build: CMakeFiles/4.2aE1.dir/StackException.cpp.o
+
+
 CMakeFiles/4.2aE1.dir/Arraymain.cpp.o: CMakeFiles/4.2aE1.dir/flags.make
 CMakeFiles/4.2aE1.dir/Arraymain.cpp.o: ../Arraymain.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/4.2aE1.dir/Arraymain.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/4.2aE1.dir/Arraymain.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/4.2aE1.dir/Arraymain.cpp.o -c /home/desktop/Polygot/Level_6/ArrayClass/Arraymain.cpp
 
 CMakeFiles/4.2aE1.dir/Arraymain.cpp.i: cmake_force
@@ -233,6 +281,8 @@ CMakeFiles/4.2aE1.dir/Arraymain.cpp.o.provides.build: CMakeFiles/4.2aE1.dir/Arra
 "CMakeFiles/4.2aE1.dir/PointArray.cpp.o" \
 "CMakeFiles/4.2aE1.dir/Point.cpp.o" \
 "CMakeFiles/4.2aE1.dir/Shape.cpp.o" \
+"CMakeFiles/4.2aE1.dir/Stack.cpp.o" \
+"CMakeFiles/4.2aE1.dir/StackException.cpp.o" \
 "CMakeFiles/4.2aE1.dir/Arraymain.cpp.o"
 
 # External object files for target 4.2aE1
@@ -244,10 +294,12 @@ CMakeFiles/4.2aE1.dir/Arraymain.cpp.o.provides.build: CMakeFiles/4.2aE1.dir/Arra
 4.2aE1: CMakeFiles/4.2aE1.dir/PointArray.cpp.o
 4.2aE1: CMakeFiles/4.2aE1.dir/Point.cpp.o
 4.2aE1: CMakeFiles/4.2aE1.dir/Shape.cpp.o
+4.2aE1: CMakeFiles/4.2aE1.dir/Stack.cpp.o
+4.2aE1: CMakeFiles/4.2aE1.dir/StackException.cpp.o
 4.2aE1: CMakeFiles/4.2aE1.dir/Arraymain.cpp.o
 4.2aE1: CMakeFiles/4.2aE1.dir/build.make
 4.2aE1: CMakeFiles/4.2aE1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable 4.2aE1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable 4.2aE1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/4.2aE1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -261,6 +313,8 @@ CMakeFiles/4.2aE1.dir/requires: CMakeFiles/4.2aE1.dir/NumericArray.cpp.o.require
 CMakeFiles/4.2aE1.dir/requires: CMakeFiles/4.2aE1.dir/PointArray.cpp.o.requires
 CMakeFiles/4.2aE1.dir/requires: CMakeFiles/4.2aE1.dir/Point.cpp.o.requires
 CMakeFiles/4.2aE1.dir/requires: CMakeFiles/4.2aE1.dir/Shape.cpp.o.requires
+CMakeFiles/4.2aE1.dir/requires: CMakeFiles/4.2aE1.dir/Stack.cpp.o.requires
+CMakeFiles/4.2aE1.dir/requires: CMakeFiles/4.2aE1.dir/StackException.cpp.o.requires
 CMakeFiles/4.2aE1.dir/requires: CMakeFiles/4.2aE1.dir/Arraymain.cpp.o.requires
 
 .PHONY : CMakeFiles/4.2aE1.dir/requires

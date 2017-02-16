@@ -32,6 +32,12 @@ CMakeFiles/4.2bE2.dir/PointArray.cpp.o: ../Shape.hpp
 CMakeFiles/4.2bE2.dir/Shape.cpp.o: ../Shape.cpp
 CMakeFiles/4.2bE2.dir/Shape.cpp.o: ../Shape.hpp
 
+CMakeFiles/4.2bE2.dir/Stack.cpp.o: ../Array.cpp
+CMakeFiles/4.2bE2.dir/Stack.cpp.o: ../Array.hpp
+CMakeFiles/4.2bE2.dir/Stack.cpp.o: ../Stack.cpp
+CMakeFiles/4.2bE2.dir/Stack.cpp.o: ../Stack.h
+CMakeFiles/4.2bE2.dir/Stack.cpp.o: /home/desktop/Polygot/Level_6/Exceptions.hpp
+
 CMakeFiles/4.2bE2.dir/home/desktop/Polygot/Level_6/Exceptions.cpp.o: /home/desktop/Polygot/Level_6/Exceptions.cpp
 CMakeFiles/4.2bE2.dir/home/desktop/Polygot/Level_6/Exceptions.cpp.o: /home/desktop/Polygot/Level_6/Exceptions.hpp
 

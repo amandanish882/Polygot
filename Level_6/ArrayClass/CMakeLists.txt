@@ -12,8 +12,10 @@ set(SOURCE_FILES
         Point.hpp
         Shape.hpp
         Shape.cpp
-    )
+        Stack.cpp Stack.h StackException.cpp StackException.h)
 
 add_executable(4.2aE1 ${SOURCE_FILES} Arraymain.cpp)
 add_executable(4.2bE1 ${SOURCE_FILES} Arraymain42bE1.cpp)
 add_executable(4.2bE2 ${SOURCE_FILES} Arraymain42bE2.cpp)
+add_executable(4.2bE4 ${SOURCE_FILES} Arraymain42bE4.cpp)
+add_executable(4.2bE5 ${SOURCE_FILES} Arraymain42bE5.cpp)

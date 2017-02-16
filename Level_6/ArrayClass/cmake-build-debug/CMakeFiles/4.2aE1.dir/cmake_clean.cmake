@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/4.2aE1.dir/PointArray.cpp.o"
   "CMakeFiles/4.2aE1.dir/Point.cpp.o"
   "CMakeFiles/4.2aE1.dir/Shape.cpp.o"
+  "CMakeFiles/4.2aE1.dir/Stack.cpp.o"
+  "CMakeFiles/4.2aE1.dir/StackException.cpp.o"
   "CMakeFiles/4.2aE1.dir/Arraymain.cpp.o"
   "4.2aE1.pdb"
   "4.2aE1"

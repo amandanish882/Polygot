@@ -10,6 +10,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/desktop/Polygot/Level_6/ArrayClass/Point.cpp" "/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/CMakeFiles/4.2aE1.dir/Point.cpp.o"
   "/home/desktop/Polygot/Level_6/ArrayClass/PointArray.cpp" "/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/CMakeFiles/4.2aE1.dir/PointArray.cpp.o"
   "/home/desktop/Polygot/Level_6/ArrayClass/Shape.cpp" "/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/CMakeFiles/4.2aE1.dir/Shape.cpp.o"
+  "/home/desktop/Polygot/Level_6/ArrayClass/Stack.cpp" "/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/CMakeFiles/4.2aE1.dir/Stack.cpp.o"
+  "/home/desktop/Polygot/Level_6/ArrayClass/StackException.cpp" "/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/CMakeFiles/4.2aE1.dir/StackException.cpp.o"
   "/home/desktop/Polygot/Level_6/Exceptions.cpp" "/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/CMakeFiles/4.2aE1.dir/home/desktop/Polygot/Level_6/Exceptions.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

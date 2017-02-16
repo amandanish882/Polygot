@@ -37,6 +37,98 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="4.2bE5">
+				<Option output="/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/4.2bE5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 4.2bE5"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4.2bE5/fast">
+				<Option output="/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/4.2bE5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 4.2bE5/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4.2bE4">
+				<Option output="/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/4.2bE4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 4.2bE4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4.2bE4/fast">
+				<Option output="/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/4.2bE4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 4.2bE4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="4.2bE1">
 				<Option output="/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/4.2bE1" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug"/>
@@ -177,11 +269,15 @@
 			</Target>
 		</Build>
 		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Array.cpp">
+			<Option target="4.2bE5"/>
+			<Option target="4.2bE4"/>
 			<Option target="4.2bE1"/>
 			<Option target="4.2bE2"/>
 			<Option target="4.2aE1"/>
 		</Unit>
 		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Array.hpp">
+			<Option target="4.2bE5"/>
+			<Option target="4.2bE4"/>
 			<Option target="4.2bE1"/>
 			<Option target="4.2bE2"/>
 			<Option target="4.2aE1"/>
@@ -195,52 +291,106 @@
 		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Arraymain42bE2.cpp">
 			<Option target="4.2bE2"/>
 		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Arraymain42bE4.cpp">
+			<Option target="4.2bE4"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Arraymain42bE5.cpp">
+			<Option target="4.2bE5"/>
+		</Unit>
 		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/NumericArray.cpp">
+			<Option target="4.2bE5"/>
+			<Option target="4.2bE4"/>
 			<Option target="4.2bE1"/>
 			<Option target="4.2bE2"/>
 			<Option target="4.2aE1"/>
 		</Unit>
 		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/NumericArray.h">
+			<Option target="4.2bE5"/>
+			<Option target="4.2bE4"/>
 			<Option target="4.2bE1"/>
 			<Option target="4.2bE2"/>
 			<Option target="4.2aE1"/>
 		</Unit>
 		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Point.cpp">
+			<Option target="4.2bE5"/>
+			<Option target="4.2bE4"/>
 			<Option target="4.2bE1"/>
 			<Option target="4.2bE2"/>
 			<Option target="4.2aE1"/>
 		</Unit>
 		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Point.hpp">
+			<Option target="4.2bE5"/>
+			<Option target="4.2bE4"/>
 			<Option target="4.2bE1"/>
 			<Option target="4.2bE2"/>
 			<Option target="4.2aE1"/>
 		</Unit>
 		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/PointArray.cpp">
+			<Option target="4.2bE5"/>
+			<Option target="4.2bE4"/>
 			<Option target="4.2bE1"/>
 			<Option target="4.2bE2"/>
 			<Option target="4.2aE1"/>
 		</Unit>
 		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/PointArray.h">
+			<Option target="4.2bE5"/>
+			<Option target="4.2bE4"/>
 			<Option target="4.2bE1"/>
 			<Option target="4.2bE2"/>
 			<Option target="4.2aE1"/>
 		</Unit>
 		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Shape.cpp">
+			<Option target="4.2bE5"/>
+			<Option target="4.2bE4"/>
 			<Option target="4.2bE1"/>
 			<Option target="4.2bE2"/>
 			<Option target="4.2aE1"/>
 		</Unit>
 		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Shape.hpp">
+			<Option target="4.2bE5"/>
+			<Option target="4.2bE4"/>
+			<Option target="4.2bE1"/>
+			<Option target="4.2bE2"/>
+			<Option target="4.2aE1"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Stack.cpp">
+			<Option target="4.2bE5"/>
+			<Option target="4.2bE4"/>
+			<Option target="4.2bE1"/>
+			<Option target="4.2bE2"/>
+			<Option target="4.2aE1"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Stack.h">
+			<Option target="4.2bE5"/>
+			<Option target="4.2bE4"/>
+			<Option target="4.2bE1"/>
+			<Option target="4.2bE2"/>
+			<Option target="4.2aE1"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/StackException.cpp">
+			<Option target="4.2bE5"/>
+			<Option target="4.2bE4"/>
+			<Option target="4.2bE1"/>
+			<Option target="4.2bE2"/>
+			<Option target="4.2aE1"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/StackException.h">
+			<Option target="4.2bE5"/>
+			<Option target="4.2bE4"/>
 			<Option target="4.2bE1"/>
 			<Option target="4.2bE2"/>
 			<Option target="4.2aE1"/>
 		</Unit>
 		<Unit filename="/home/desktop/Polygot/Level_6/Exceptions.cpp">
+			<Option target="4.2bE5"/>
+			<Option target="4.2bE4"/>
 			<Option target="4.2bE1"/>
 			<Option target="4.2bE2"/>
 			<Option target="4.2aE1"/>
 		</Unit>
 		<Unit filename="/home/desktop/Polygot/Level_6/Exceptions.hpp">
+			<Option target="4.2bE5"/>
+			<Option target="4.2bE4"/>
 			<Option target="4.2bE1"/>
 			<Option target="4.2bE2"/>
 			<Option target="4.2aE1"/>
