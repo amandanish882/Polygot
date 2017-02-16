@@ -1,130 +1,130 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_project_file>
-	<FileVersion major="1" minor="6"/>
-	<Project>
-		<Option title="ArrayClass"/>
-		<Option makefile_is_custom="1"/>
-		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;"/>
-		<Build>
-			<Target title="all">
-				<Option working_dir="/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="rebuild_cache">
-				<Option working_dir="/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="ArrayClass">
-				<Option output="/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/ArrayClass" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-					<Add directory="/usr/include/c++/6"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
-					<Add directory="/usr/include/c++/6/backward"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 ArrayClass"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="ArrayClass/fast">
-				<Option output="/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/ArrayClass" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-					<Add directory="/usr/include/c++/6"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
-					<Add directory="/usr/include/c++/6/backward"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 ArrayClass/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desktop/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-		</Build>
-		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Array.cpp">
-			<Option target="ArrayClass"/>
-		</Unit>
-		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Array.hpp">
-			<Option target="ArrayClass"/>
-		</Unit>
-		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Arraymain.cpp">
-			<Option target="ArrayClass"/>
-		</Unit>
-		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/NumericArray.cpp">
-			<Option target="ArrayClass"/>
-		</Unit>
-		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/NumericArray.h">
-			<Option target="ArrayClass"/>
-		</Unit>
-		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Point.cpp">
-			<Option target="ArrayClass"/>
-		</Unit>
-		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Point.hpp">
-			<Option target="ArrayClass"/>
-		</Unit>
-		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/PointArray.cpp">
-			<Option target="ArrayClass"/>
-		</Unit>
-		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/PointArray.h">
-			<Option target="ArrayClass"/>
-		</Unit>
-		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Shape.cpp">
-			<Option target="ArrayClass"/>
-		</Unit>
-		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/Shape.hpp">
-			<Option target="ArrayClass"/>
-		</Unit>
-		<Unit filename="/home/desktop/Polygot/Level_6/Exceptions.cpp">
-			<Option target="ArrayClass"/>
-		</Unit>
-		<Unit filename="/home/desktop/Polygot/Level_6/Exceptions.hpp">
-			<Option target="ArrayClass"/>
-		</Unit>
-		<Unit filename="/home/desktop/Polygot/Level_6/ArrayClass/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\"/>
-		</Unit>
-	</Project>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="ArrayClass" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="4.2aE1">
+         <Option output="/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/4.2aE1" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 4.2aE1" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="4.2aE1/fast">
+         <Option output="/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/4.2aE1" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 4.2aE1/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/tjisana/Polygot/Level_6/ArrayClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/tjisana/Polygot/Level_6/ArrayClass/Array.cpp">
+         <Option target="4.2aE1"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Polygot/Level_6/ArrayClass/Array.hpp">
+         <Option target="4.2aE1"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Polygot/Level_6/ArrayClass/Arraymain.cpp">
+         <Option target="4.2aE1"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Polygot/Level_6/ArrayClass/NumericArray.cpp">
+         <Option target="4.2aE1"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Polygot/Level_6/ArrayClass/NumericArray.h">
+         <Option target="4.2aE1"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Polygot/Level_6/ArrayClass/Point.cpp">
+         <Option target="4.2aE1"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Polygot/Level_6/ArrayClass/Point.hpp">
+         <Option target="4.2aE1"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Polygot/Level_6/ArrayClass/PointArray.cpp">
+         <Option target="4.2aE1"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Polygot/Level_6/ArrayClass/PointArray.h">
+         <Option target="4.2aE1"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Polygot/Level_6/ArrayClass/Shape.cpp">
+         <Option target="4.2aE1"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Polygot/Level_6/ArrayClass/Shape.hpp">
+         <Option target="4.2aE1"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Polygot/Level_6/Exceptions.cpp">
+         <Option target="4.2aE1"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Polygot/Level_6/Exceptions.hpp">
+         <Option target="4.2aE1"/>
+      </Unit>
+      <Unit filename="/home/tjisana/Polygot/Level_6/ArrayClass/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
 </CodeBlocks_project_file>
