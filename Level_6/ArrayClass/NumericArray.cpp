@@ -41,7 +41,7 @@ namespace TK{
 
         template <class T>
         NumericArray<T> NumericArray<T>::operator+ (const NumericArray<T>& numericArray) const{
-            if(Array<T>::Size() != numericArray.Size()) throw OutOfBoundsExceptions(numericArray.Size());
+            if(Array<T>::Size() != numericArray.Size()) throw SizeMismatchException(this->Size(), numericArray.Size());
             NumericArray<T> temp(Array<T>::Size());
             for(int i=0;i<Array<T>::Size();++i)
                 temp[i] = Array<T>::operator[](i) + numericArray[i];

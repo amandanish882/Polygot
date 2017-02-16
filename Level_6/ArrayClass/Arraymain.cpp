@@ -1,8 +1,5 @@
 #include "Array.cpp"
-#include "NumericArray.cpp"
 #include "Point.hpp"
-//#include "../Exceptions.hpp"
-#include <iostream>
 
 using namespace TK::Containers;
 using namespace TK::CAD;
@@ -11,10 +8,10 @@ using std::endl;
 
 int main(int argc,char** argv){
     Array<Point> points(4);
-    
+    cout<<"Array size "<<points.Size()<<endl;
 
     try{
-        intArray3.dotproduct(intArray4);
+        points [4] = Point(4.0);
 
     }    
     catch(ArrayException& exception){

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/4.2aE1.dir/Array.cpp.o"
-  "CMakeFiles/4.2aE1.dir/home/tjisana/Polygot/Level_6/Exceptions.cpp.o"
+  "CMakeFiles/4.2aE1.dir/home/desktop/Polygot/Level_6/Exceptions.cpp.o"
   "CMakeFiles/4.2aE1.dir/NumericArray.cpp.o"
   "CMakeFiles/4.2aE1.dir/PointArray.cpp.o"
   "CMakeFiles/4.2aE1.dir/Point.cpp.o"

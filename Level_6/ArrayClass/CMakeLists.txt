@@ -14,4 +14,6 @@ set(SOURCE_FILES
         Shape.cpp
     )
 
-add_executable(4.2aE1 ${SOURCE_FILES} /home/tjisana/Polygot/Level_6/ArrayClass/Arraymain.cpp)
+add_executable(4.2aE1 ${SOURCE_FILES} Arraymain.cpp)
+add_executable(4.2bE1 ${SOURCE_FILES} Arraymain42bE1.cpp)
+add_executable(4.2bE2 ${SOURCE_FILES} Arraymain42bE2.cpp)
