@@ -1,0 +1,13 @@
+these should produce the same results
+
+{
+  "query": { "match_all": {} },
+  "sort": { "balance": { "order": "desc" } }
+}
+
+{
+  "query": { "match_all": {} },
+  "sort": { "balance":"desc" }
+}
+
+---------------------------------------------------------------------------------------------------------------------
