@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/FEDuffy.dir/main.cpp.o CMakeFiles/FEDuffy.dir/Inequalities.cpp.o CMakeFiles/FEDuffy.dir/EuropeanOption.cpp.o  -o FEDuffy 

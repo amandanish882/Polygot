@@ -1,0 +1,3 @@
+/home/desktop/Polygot/C_Cpp/FEDuffy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/desktop/Polygot/C_Cpp/FEDuffy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/desktop/Polygot/C_Cpp/FEDuffy/cmake-build-debug/CMakeFiles/FEDuffy.dir

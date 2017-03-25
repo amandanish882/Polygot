@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/desktop/Polygot/C_Cpp/FEDuffy/EuropeanOption.cpp
+EuropeanOption.h
+/home/desktop/Polygot/C_Cpp/FEDuffy/EuropeanOption.h
+math.h
+-
+
+/home/desktop/Polygot/C_Cpp/FEDuffy/EuropeanOption.h
+string
+-
+
+/home/desktop/Polygot/C_Cpp/FEDuffy/Inequalities.cpp
+Inequalities.h
+/home/desktop/Polygot/C_Cpp/FEDuffy/Inequalities.h
+
+/home/desktop/Polygot/C_Cpp/FEDuffy/Inequalities.h
+
+/home/desktop/Polygot/C_Cpp/FEDuffy/main.cpp
+iostream
+-
+Inequalities.cpp
+/home/desktop/Polygot/C_Cpp/FEDuffy/Inequalities.cpp
+EuropeanOption.h
+/home/desktop/Polygot/C_Cpp/FEDuffy/EuropeanOption.h
+

@@ -1,0 +1,16 @@
+TEMPLATE CLASSES AND TEMPLATE FUNCTIONS
+
+Templates are trickier because we must include the file (whatever its name may be) that
+contains the bodies of the functions that we are calling. 
+
+http://stackoverflow.com/questions/2023977/c-difference-of-keywords-typename-and-class-in-templates
+
+THE STRUCT CONCEPT
+All the members are public (accessibility by client code is not an issue)
+
+C++ is based on the message-passing paradigm
+
+// Handy shorthand synonyms
+typedef vector<double> Vector;
+
+the assert() function will be called and the program terminates immediately
