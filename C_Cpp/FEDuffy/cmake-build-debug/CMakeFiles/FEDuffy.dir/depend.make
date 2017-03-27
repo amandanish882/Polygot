@@ -7,8 +7,15 @@ CMakeFiles/FEDuffy.dir/EuropeanOption.cpp.o: ../EuropeanOption.h
 CMakeFiles/FEDuffy.dir/Inequalities.cpp.o: ../Inequalities.cpp
 CMakeFiles/FEDuffy.dir/Inequalities.cpp.o: ../Inequalities.h
 
+CMakeFiles/FEDuffy.dir/Point.cpp.o: ../Point.cpp
+CMakeFiles/FEDuffy.dir/Point.cpp.o: ../Point.h
+CMakeFiles/FEDuffy.dir/Point.cpp.o: ../Shape.h
+
+CMakeFiles/FEDuffy.dir/main.cpp.o: ../AdvancedInheritance.h
 CMakeFiles/FEDuffy.dir/main.cpp.o: ../EuropeanOption.h
-CMakeFiles/FEDuffy.dir/main.cpp.o: ../Inequalities.cpp
-CMakeFiles/FEDuffy.dir/main.cpp.o: ../Inequalities.h
+CMakeFiles/FEDuffy.dir/main.cpp.o: ../FunctionPointers.h
+CMakeFiles/FEDuffy.dir/main.cpp.o: ../NonLinearSolver.h
+CMakeFiles/FEDuffy.dir/main.cpp.o: ../Point.h
+CMakeFiles/FEDuffy.dir/main.cpp.o: ../Shape.h
 CMakeFiles/FEDuffy.dir/main.cpp.o: ../main.cpp
 

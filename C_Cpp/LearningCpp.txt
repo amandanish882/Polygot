@@ -14,3 +14,23 @@ C++ is based on the message-passing paradigm
 typedef vector<double> Vector;
 
 the assert() function will be called and the program terminates immediately
+
+use of anonymous objects
+
+const pointer?
+
+define an alias (synonym) for the namespace
+namespace YA = YourFunctions; // Define alias NS called YA
+
+
+In order to reduce the scope even further we distinguish between the following kinds of
+functions:
+Scalar-valued function (maps a double to a double, for example)
+Vector function (maps a double into a vector)
+Real-valued function (maps a vector into a double)
+Vector-valued function (maps a vector into a vector)
+
+By definition, an abstract class is one that cannot have any instances, that is one from which
+no objects can be created. We can produce abstract classes by defining at least one function to
+be pure virtual. A concrete class on the other hand is one that is not abstract. In other words,
+we can create instances of concrete classes.

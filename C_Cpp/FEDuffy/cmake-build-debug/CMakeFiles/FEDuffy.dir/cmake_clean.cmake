@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/FEDuffy.dir/main.cpp.o"
   "CMakeFiles/FEDuffy.dir/Inequalities.cpp.o"
   "CMakeFiles/FEDuffy.dir/EuropeanOption.cpp.o"
+  "CMakeFiles/FEDuffy.dir/Point.cpp.o"
   "FEDuffy.pdb"
   "FEDuffy"
 )

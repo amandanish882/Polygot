@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/home/desktop/Polygot/C_Cpp/FEDuffy/AdvancedInheritance.h
+iostream
+-
+
 /home/desktop/Polygot/C_Cpp/FEDuffy/EuropeanOption.cpp
 EuropeanOption.h
 /home/desktop/Polygot/C_Cpp/FEDuffy/EuropeanOption.h
@@ -16,17 +20,47 @@ math.h
 string
 -
 
+/home/desktop/Polygot/C_Cpp/FEDuffy/FunctionPointers.h
+math.h
+-
+
 /home/desktop/Polygot/C_Cpp/FEDuffy/Inequalities.cpp
 Inequalities.h
 /home/desktop/Polygot/C_Cpp/FEDuffy/Inequalities.h
 
 /home/desktop/Polygot/C_Cpp/FEDuffy/Inequalities.h
 
+/home/desktop/Polygot/C_Cpp/FEDuffy/NonLinearSolver.h
+cmath
+-
+
+/home/desktop/Polygot/C_Cpp/FEDuffy/Point.cpp
+Point.h
+/home/desktop/Polygot/C_Cpp/FEDuffy/Point.h
+sstream
+-
+
+/home/desktop/Polygot/C_Cpp/FEDuffy/Point.h
+iostream
+-
+Shape.h
+/home/desktop/Polygot/C_Cpp/FEDuffy/Shape.h
+
+/home/desktop/Polygot/C_Cpp/FEDuffy/Shape.h
+string
+-
+
 /home/desktop/Polygot/C_Cpp/FEDuffy/main.cpp
 iostream
 -
-Inequalities.cpp
-/home/desktop/Polygot/C_Cpp/FEDuffy/Inequalities.cpp
 EuropeanOption.h
 /home/desktop/Polygot/C_Cpp/FEDuffy/EuropeanOption.h
+Point.h
+/home/desktop/Polygot/C_Cpp/FEDuffy/Point.h
+FunctionPointers.h
+/home/desktop/Polygot/C_Cpp/FEDuffy/FunctionPointers.h
+NonLinearSolver.h
+/home/desktop/Polygot/C_Cpp/FEDuffy/NonLinearSolver.h
+AdvancedInheritance.h
+/home/desktop/Polygot/C_Cpp/FEDuffy/AdvancedInheritance.h
 

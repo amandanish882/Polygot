@@ -84,16 +84,31 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/desktop/Polygot/C_Cpp/FEDuffy/AdvancedInheritance.h">
+			<Option target="FEDuffy"/>
+		</Unit>
 		<Unit filename="/home/desktop/Polygot/C_Cpp/FEDuffy/EuropeanOption.cpp">
 			<Option target="FEDuffy"/>
 		</Unit>
 		<Unit filename="/home/desktop/Polygot/C_Cpp/FEDuffy/EuropeanOption.h">
 			<Option target="FEDuffy"/>
 		</Unit>
+		<Unit filename="/home/desktop/Polygot/C_Cpp/FEDuffy/FunctionPointers.h">
+			<Option target="FEDuffy"/>
+		</Unit>
 		<Unit filename="/home/desktop/Polygot/C_Cpp/FEDuffy/Inequalities.cpp">
 			<Option target="FEDuffy"/>
 		</Unit>
 		<Unit filename="/home/desktop/Polygot/C_Cpp/FEDuffy/Inequalities.h">
+			<Option target="FEDuffy"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/C_Cpp/FEDuffy/NonLinearSolver.h">
+			<Option target="FEDuffy"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/C_Cpp/FEDuffy/Point.cpp">
+			<Option target="FEDuffy"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/C_Cpp/FEDuffy/Point.h">
 			<Option target="FEDuffy"/>
 		</Unit>
 		<Unit filename="/home/desktop/Polygot/C_Cpp/FEDuffy/Shape.h">

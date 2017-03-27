@@ -10,8 +10,10 @@
 class Shape{
 public:
     std::string name;
+    Shape(){}
     Shape(std::string name):name(name){}
     virtual ~Shape(){}
+    virtual inline void print(){std::cout<<"Base Class\n";}
 };
 
 #endif //FEDUFFY_SHAPE_H

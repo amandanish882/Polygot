@@ -177,6 +177,33 @@ Inequalities.cpp.s:
 	$(MAKE) -f CMakeFiles/FEDuffy.dir/build.make CMakeFiles/FEDuffy.dir/Inequalities.cpp.s
 .PHONY : Inequalities.cpp.s
 
+Point.o: Point.cpp.o
+
+.PHONY : Point.o
+
+# target to build an object file
+Point.cpp.o:
+	$(MAKE) -f CMakeFiles/FEDuffy.dir/build.make CMakeFiles/FEDuffy.dir/Point.cpp.o
+.PHONY : Point.cpp.o
+
+Point.i: Point.cpp.i
+
+.PHONY : Point.i
+
+# target to preprocess a source file
+Point.cpp.i:
+	$(MAKE) -f CMakeFiles/FEDuffy.dir/build.make CMakeFiles/FEDuffy.dir/Point.cpp.i
+.PHONY : Point.cpp.i
+
+Point.s: Point.cpp.s
+
+.PHONY : Point.s
+
+# target to generate assembly for a file
+Point.cpp.s:
+	$(MAKE) -f CMakeFiles/FEDuffy.dir/build.make CMakeFiles/FEDuffy.dir/Point.cpp.s
+.PHONY : Point.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -219,6 +246,9 @@ help:
 	@echo "... Inequalities.o"
 	@echo "... Inequalities.i"
 	@echo "... Inequalities.s"
+	@echo "... Point.o"
+	@echo "... Point.i"
+	@echo "... Point.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

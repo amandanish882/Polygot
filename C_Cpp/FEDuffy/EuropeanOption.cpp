@@ -20,14 +20,16 @@ EuropeanOption::EuropeanOption(const EuropeanOption& source)
 {}
 
 EuropeanOption& EuropeanOption::operator=(const EuropeanOption &source) {
-    if(this==&source) return *this;
-    r = source.r;
-    sig = source.sig;
-    K = source.K;
-    S0 = source.S0;
-    b = source.b;
-    T = source.T;
-    optType = source.optType;
+    //if(this==&source) return *this;
+    if(this!=&source){
+        r = source.r;
+        sig = source.sig;
+        K = source.K;
+        S0 = source.S0;
+        b = source.b;
+        T = source.T;
+        optType = source.optType;
+    }
     return *this;
 }
 
