@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/desktop/Polygot/C_Cpp/BjarnePPP/C4E3.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
