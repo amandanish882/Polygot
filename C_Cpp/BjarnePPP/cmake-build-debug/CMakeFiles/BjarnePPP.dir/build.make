@@ -57,38 +57,38 @@ include CMakeFiles/BjarnePPP.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/BjarnePPP.dir/flags.make
 
-CMakeFiles/BjarnePPP.dir/C4E5.cpp.o: CMakeFiles/BjarnePPP.dir/flags.make
-CMakeFiles/BjarnePPP.dir/C4E5.cpp.o: ../C4E5.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/desktop/Polygot/C_Cpp/BjarnePPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BjarnePPP.dir/C4E5.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BjarnePPP.dir/C4E5.cpp.o -c /home/desktop/Polygot/C_Cpp/BjarnePPP/C4E5.cpp
+CMakeFiles/BjarnePPP.dir/C4E19.cpp.o: CMakeFiles/BjarnePPP.dir/flags.make
+CMakeFiles/BjarnePPP.dir/C4E19.cpp.o: ../C4E19.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/desktop/Polygot/C_Cpp/BjarnePPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BjarnePPP.dir/C4E19.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BjarnePPP.dir/C4E19.cpp.o -c /home/desktop/Polygot/C_Cpp/BjarnePPP/C4E19.cpp
 
-CMakeFiles/BjarnePPP.dir/C4E5.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BjarnePPP.dir/C4E5.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/desktop/Polygot/C_Cpp/BjarnePPP/C4E5.cpp > CMakeFiles/BjarnePPP.dir/C4E5.cpp.i
+CMakeFiles/BjarnePPP.dir/C4E19.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BjarnePPP.dir/C4E19.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/desktop/Polygot/C_Cpp/BjarnePPP/C4E19.cpp > CMakeFiles/BjarnePPP.dir/C4E19.cpp.i
 
-CMakeFiles/BjarnePPP.dir/C4E5.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BjarnePPP.dir/C4E5.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/desktop/Polygot/C_Cpp/BjarnePPP/C4E5.cpp -o CMakeFiles/BjarnePPP.dir/C4E5.cpp.s
+CMakeFiles/BjarnePPP.dir/C4E19.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BjarnePPP.dir/C4E19.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/desktop/Polygot/C_Cpp/BjarnePPP/C4E19.cpp -o CMakeFiles/BjarnePPP.dir/C4E19.cpp.s
 
-CMakeFiles/BjarnePPP.dir/C4E5.cpp.o.requires:
+CMakeFiles/BjarnePPP.dir/C4E19.cpp.o.requires:
 
-.PHONY : CMakeFiles/BjarnePPP.dir/C4E5.cpp.o.requires
+.PHONY : CMakeFiles/BjarnePPP.dir/C4E19.cpp.o.requires
 
-CMakeFiles/BjarnePPP.dir/C4E5.cpp.o.provides: CMakeFiles/BjarnePPP.dir/C4E5.cpp.o.requires
-	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/C4E5.cpp.o.provides.build
-.PHONY : CMakeFiles/BjarnePPP.dir/C4E5.cpp.o.provides
+CMakeFiles/BjarnePPP.dir/C4E19.cpp.o.provides: CMakeFiles/BjarnePPP.dir/C4E19.cpp.o.requires
+	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/C4E19.cpp.o.provides.build
+.PHONY : CMakeFiles/BjarnePPP.dir/C4E19.cpp.o.provides
 
-CMakeFiles/BjarnePPP.dir/C4E5.cpp.o.provides.build: CMakeFiles/BjarnePPP.dir/C4E5.cpp.o
+CMakeFiles/BjarnePPP.dir/C4E19.cpp.o.provides.build: CMakeFiles/BjarnePPP.dir/C4E19.cpp.o
 
 
 # Object files for target BjarnePPP
 BjarnePPP_OBJECTS = \
-"CMakeFiles/BjarnePPP.dir/C4E5.cpp.o"
+"CMakeFiles/BjarnePPP.dir/C4E19.cpp.o"
 
 # External object files for target BjarnePPP
 BjarnePPP_EXTERNAL_OBJECTS =
 
-BjarnePPP: CMakeFiles/BjarnePPP.dir/C4E5.cpp.o
+BjarnePPP: CMakeFiles/BjarnePPP.dir/C4E19.cpp.o
 BjarnePPP: CMakeFiles/BjarnePPP.dir/build.make
 BjarnePPP: CMakeFiles/BjarnePPP.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/desktop/Polygot/C_Cpp/BjarnePPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable BjarnePPP"
@@ -99,7 +99,7 @@ CMakeFiles/BjarnePPP.dir/build: BjarnePPP
 
 .PHONY : CMakeFiles/BjarnePPP.dir/build
 
-CMakeFiles/BjarnePPP.dir/requires: CMakeFiles/BjarnePPP.dir/C4E5.cpp.o.requires
+CMakeFiles/BjarnePPP.dir/requires: CMakeFiles/BjarnePPP.dir/C4E19.cpp.o.requires
 
 .PHONY : CMakeFiles/BjarnePPP.dir/requires
 

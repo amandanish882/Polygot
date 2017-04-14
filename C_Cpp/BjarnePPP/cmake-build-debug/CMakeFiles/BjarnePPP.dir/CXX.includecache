@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/desktop/Polygot/C_Cpp/BjarnePPP/C4E3.cpp
+/home/desktop/Polygot/C_Cpp/BjarnePPP/C4E19.cpp
 iostream
 -
 vector
 -
 algorithm
+-
+error.h
+-
+math.h
 -
 
