@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/desktop/Polygot/C_Cpp/BjarnePPP/C5S5_6.cpp
+/home/desktop/Polygot/C_Cpp/BjarnePPP/C5E7.cpp
 iostream
+-
+cmath
 -
 

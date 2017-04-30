@@ -18,12 +18,17 @@ double area(double l, double w);
 int main(int argc, char** argv){
     try {
         area(-1,2);
+        return 0;
     }
     catch(BadArea badArea){
         badArea.tellUser();
+        return 1;
+    }
+    catch(std::runtime_error& e){
+        std::cerr<<e.what();
+        return 2;
     }
 
-    return 0;
 }
 
 double area(double l, double w){

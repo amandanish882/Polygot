@@ -3,5 +3,5 @@ project(BjarnePPP)
 
 set(CMAKE_CXX_STANDARD 14)
 
-set(SOURCE_FILES C5S5_6.cpp)
+set(SOURCE_FILES C5E7.cpp)
 add_executable(BjarnePPP ${SOURCE_FILES})
