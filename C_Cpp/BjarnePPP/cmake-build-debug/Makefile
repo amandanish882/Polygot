@@ -123,32 +123,32 @@ BjarnePPP/fast:
 	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/build
 .PHONY : BjarnePPP/fast
 
-C5E8.o: C5E8.cpp.o
+C6.o: C6.cpp.o
 
-.PHONY : C5E8.o
+.PHONY : C6.o
 
 # target to build an object file
-C5E8.cpp.o:
-	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/C5E8.cpp.o
-.PHONY : C5E8.cpp.o
+C6.cpp.o:
+	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/C6.cpp.o
+.PHONY : C6.cpp.o
 
-C5E8.i: C5E8.cpp.i
+C6.i: C6.cpp.i
 
-.PHONY : C5E8.i
+.PHONY : C6.i
 
 # target to preprocess a source file
-C5E8.cpp.i:
-	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/C5E8.cpp.i
-.PHONY : C5E8.cpp.i
+C6.cpp.i:
+	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/C6.cpp.i
+.PHONY : C6.cpp.i
 
-C5E8.s: C5E8.cpp.s
+C6.s: C6.cpp.s
 
-.PHONY : C5E8.s
+.PHONY : C6.s
 
 # target to generate assembly for a file
-C5E8.cpp.s:
-	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/C5E8.cpp.s
-.PHONY : C5E8.cpp.s
+C6.cpp.s:
+	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/C6.cpp.s
+.PHONY : C6.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... BjarnePPP"
-	@echo "... C5E8.o"
-	@echo "... C5E8.i"
-	@echo "... C5E8.s"
+	@echo "... C6.o"
+	@echo "... C6.i"
+	@echo "... C6.s"
 .PHONY : help
 
 

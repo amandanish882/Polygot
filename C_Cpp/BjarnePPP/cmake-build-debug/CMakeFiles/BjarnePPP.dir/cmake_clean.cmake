@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/BjarnePPP.dir/C5E8.cpp.o"
+  "CMakeFiles/BjarnePPP.dir/C6.cpp.o"
   "BjarnePPP.pdb"
   "BjarnePPP"
 )

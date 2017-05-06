@@ -84,7 +84,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/desktop/Polygot/C_Cpp/BjarnePPP/C5E8.cpp">
+		<Unit filename="/home/desktop/Polygot/C_Cpp/BjarnePPP/C6.cpp">
+			<Option target="BjarnePPP"/>
+		</Unit>
+		<Unit filename="/home/desktop/Polygot/C_Cpp/BjarnePPP/std_lib_facilities.h">
 			<Option target="BjarnePPP"/>
 		</Unit>
 		<Unit filename="/home/desktop/Polygot/C_Cpp/BjarnePPP/CMakeLists.txt">
