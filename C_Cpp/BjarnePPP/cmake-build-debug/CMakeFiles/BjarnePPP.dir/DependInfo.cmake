@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/desktop/Polygot/C_Cpp/BjarnePPP/C9.cpp" "/home/desktop/Polygot/C_Cpp/BjarnePPP/cmake-build-debug/CMakeFiles/BjarnePPP.dir/C9.cpp.o"
+  "/home/tjisana/Polygot/C_Cpp/BjarnePPP/C9.cpp" "/home/tjisana/Polygot/C_Cpp/BjarnePPP/cmake-build-debug/CMakeFiles/BjarnePPP.dir/C9.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

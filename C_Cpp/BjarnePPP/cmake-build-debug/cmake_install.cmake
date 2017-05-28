@@ -1,4 +1,4 @@
-# Install script for directory: /home/desktop/Polygot/C_Cpp/BjarnePPP
+# Install script for directory: /home/tjisana/Polygot/C_Cpp/BjarnePPP
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/desktop/Polygot/C_Cpp/BjarnePPP/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/tjisana/Polygot/C_Cpp/BjarnePPP/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

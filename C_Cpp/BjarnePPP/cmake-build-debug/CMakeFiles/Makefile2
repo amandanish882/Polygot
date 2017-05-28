@@ -45,19 +45,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/desktop/Downloads/clion-2017.1.1/bin/cmake/bin/cmake
+CMAKE_COMMAND = /home/tjisana/Downloads/clion-2017.1.2/bin/cmake/bin/cmake
 
 # The command to remove a file.
-RM = /home/desktop/Downloads/clion-2017.1.1/bin/cmake/bin/cmake -E remove -f
+RM = /home/tjisana/Downloads/clion-2017.1.2/bin/cmake/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/desktop/Polygot/C_Cpp/BjarnePPP
+CMAKE_SOURCE_DIR = /home/tjisana/Polygot/C_Cpp/BjarnePPP
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/desktop/Polygot/C_Cpp/BjarnePPP/cmake-build-debug
+CMAKE_BINARY_DIR = /home/tjisana/Polygot/C_Cpp/BjarnePPP/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/BjarnePPP.dir
@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /home/desktop/Polygot/C_Cpp/BjarnePPP/cmake-build-debug
 CMakeFiles/BjarnePPP.dir/all:
 	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/depend
 	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/desktop/Polygot/C_Cpp/BjarnePPP/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target BjarnePPP"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/tjisana/Polygot/C_Cpp/BjarnePPP/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target BjarnePPP"
 .PHONY : CMakeFiles/BjarnePPP.dir/all
 
 # Include target in all.
@@ -76,9 +76,9 @@ all: CMakeFiles/BjarnePPP.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/BjarnePPP.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/desktop/Polygot/C_Cpp/BjarnePPP/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/tjisana/Polygot/C_Cpp/BjarnePPP/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/BjarnePPP.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/desktop/Polygot/C_Cpp/BjarnePPP/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/tjisana/Polygot/C_Cpp/BjarnePPP/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/BjarnePPP.dir/rule
 
 # Convenience name for target.
