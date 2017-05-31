@@ -1,37 +1,43 @@
 #include "std_lib_facilities.h"
-
 using std::cout;
-using std::cin;
-using std::endl;
 
-void print(const string& label, const vector<int>& v);
-void reverse(vector<int>& source);
-//void reverse(vector<int>& source);
+void print(const vector<string>& nameSource,const vector<int>& ageSource);
+void printsorted(vector<string>& nameSource,const vector<int>& ageSource);
+int find_index(const vector<string>& source,const string& name);
 
 int main() {
-    vector<int> vector1 = {1,3,5,7,9};
-    try{
-        print("Vector 1 ",vector1);
-        reverse(vector1);
-        print("Vector 1 reversed ",vector1);
+    cout<<"Enter name and age \n";
+    vector<string> names;
+    vector<int> ages;
+    string name;
+    int age;
+    while(cin>>name>>age && name!="noname"){
+        names.push_back(name);
+        ages.push_back(age);
     }
-    catch(...){
-        cerr<<"Error\n";
-    }
+    print(names,ages);
+    cout<<"\n=================\nSORTED\n=================\n";
+    printsorted(names,ages);
     return 0;
 }
 
-void reverse(vector<int>& source){
-    vector<int> v;
-    for(int i=source.size()-1;i>=0;--i)
-        v.push_back(source[i]);
-    source=v;
+void print(const vector<string>& nameSource,const vector<int>& ageSource){
+    for(int i=0;i<nameSource.size();++i)
+        cout<<nameSource[i]<<" "<<ageSource[i]<<endl;
 }
 
-void print(const string& label, const vector<int>& v)
-// print vector to cout
-{
-    cout << label << "( ";
-    for (int i = 0; i<v.size(); ++i) cout << v[i] << ' ';
-    cout << ")\n";
+void printsorted(vector<string>& nameSource,const vector<int>& ageSource){
+    vector<string> nameNotSorted = nameSource;
+    vector<int> ageSorted;
+    sort(nameSource.begin(),nameSource.end());
+    for(int i=0;i<nameSource.size();++i)
+        ageSorted.push_back(ageSource[find_index(nameNotSorted,nameSource[i])]);
+    print(nameSource,ageSorted);
+        
+}
+
+int find_index(const vector<string>& source,const string& name){
+    for(int i=0;i<source.size();++i)
+        if(name==source[i])
+            return i;
 }
