@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/BjarnePPP.dir/C8_7.cpp.o"
+  "CMakeFiles/BjarnePPP.dir/CppProgrammingLanguage.cpp.o"
   "BjarnePPP.pdb"
   "BjarnePPP"
 )

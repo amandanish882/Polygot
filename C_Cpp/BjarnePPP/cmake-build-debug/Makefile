@@ -123,32 +123,32 @@ BjarnePPP/fast:
 	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/build
 .PHONY : BjarnePPP/fast
 
-C8_7.o: C8_7.cpp.o
+CppProgrammingLanguage.o: CppProgrammingLanguage.cpp.o
 
-.PHONY : C8_7.o
+.PHONY : CppProgrammingLanguage.o
 
 # target to build an object file
-C8_7.cpp.o:
-	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/C8_7.cpp.o
-.PHONY : C8_7.cpp.o
+CppProgrammingLanguage.cpp.o:
+	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/CppProgrammingLanguage.cpp.o
+.PHONY : CppProgrammingLanguage.cpp.o
 
-C8_7.i: C8_7.cpp.i
+CppProgrammingLanguage.i: CppProgrammingLanguage.cpp.i
 
-.PHONY : C8_7.i
+.PHONY : CppProgrammingLanguage.i
 
 # target to preprocess a source file
-C8_7.cpp.i:
-	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/C8_7.cpp.i
-.PHONY : C8_7.cpp.i
+CppProgrammingLanguage.cpp.i:
+	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/CppProgrammingLanguage.cpp.i
+.PHONY : CppProgrammingLanguage.cpp.i
 
-C8_7.s: C8_7.cpp.s
+CppProgrammingLanguage.s: CppProgrammingLanguage.cpp.s
 
-.PHONY : C8_7.s
+.PHONY : CppProgrammingLanguage.s
 
 # target to generate assembly for a file
-C8_7.cpp.s:
-	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/C8_7.cpp.s
-.PHONY : C8_7.cpp.s
+CppProgrammingLanguage.cpp.s:
+	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/CppProgrammingLanguage.cpp.s
+.PHONY : CppProgrammingLanguage.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... BjarnePPP"
-	@echo "... C8_7.o"
-	@echo "... C8_7.i"
-	@echo "... C8_7.s"
+	@echo "... CppProgrammingLanguage.o"
+	@echo "... CppProgrammingLanguage.i"
+	@echo "... CppProgrammingLanguage.s"
 .PHONY : help
 
 

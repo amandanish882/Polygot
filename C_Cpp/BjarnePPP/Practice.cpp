@@ -5,5 +5,7 @@ using std::cin;
 using std::endl;
 
 int main() {
+    int* p = nullptr;
+    
     return 0;
 }

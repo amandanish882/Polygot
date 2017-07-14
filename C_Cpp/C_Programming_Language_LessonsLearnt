@@ -1,0 +1,3 @@
+Chapt2
+It is often wise to check that a pointer argument that is supposed to point to something, actually
+points to something:
