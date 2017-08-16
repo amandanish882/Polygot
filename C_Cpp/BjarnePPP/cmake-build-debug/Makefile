@@ -150,6 +150,60 @@ CppProgrammingLanguage.cpp.s:
 	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/CppProgrammingLanguage.cpp.s
 .PHONY : CppProgrammingLanguage.cpp.s
 
+Date.o: Date.cpp.o
+
+.PHONY : Date.o
+
+# target to build an object file
+Date.cpp.o:
+	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/Date.cpp.o
+.PHONY : Date.cpp.o
+
+Date.i: Date.cpp.i
+
+.PHONY : Date.i
+
+# target to preprocess a source file
+Date.cpp.i:
+	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/Date.cpp.i
+.PHONY : Date.cpp.i
+
+Date.s: Date.cpp.s
+
+.PHONY : Date.s
+
+# target to generate assembly for a file
+Date.cpp.s:
+	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/Date.cpp.s
+.PHONY : Date.cpp.s
+
+Rational.o: Rational.cpp.o
+
+.PHONY : Rational.o
+
+# target to build an object file
+Rational.cpp.o:
+	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/Rational.cpp.o
+.PHONY : Rational.cpp.o
+
+Rational.i: Rational.cpp.i
+
+.PHONY : Rational.i
+
+# target to preprocess a source file
+Rational.cpp.i:
+	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/Rational.cpp.i
+.PHONY : Rational.cpp.i
+
+Rational.s: Rational.cpp.s
+
+.PHONY : Rational.s
+
+# target to generate assembly for a file
+Rational.cpp.s:
+	$(MAKE) -f CMakeFiles/BjarnePPP.dir/build.make CMakeFiles/BjarnePPP.dir/Rational.cpp.s
+.PHONY : Rational.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +216,12 @@ help:
 	@echo "... CppProgrammingLanguage.o"
 	@echo "... CppProgrammingLanguage.i"
 	@echo "... CppProgrammingLanguage.s"
+	@echo "... Date.o"
+	@echo "... Date.i"
+	@echo "... Date.s"
+	@echo "... Rational.o"
+	@echo "... Rational.i"
+	@echo "... Rational.s"
 .PHONY : help
 
 

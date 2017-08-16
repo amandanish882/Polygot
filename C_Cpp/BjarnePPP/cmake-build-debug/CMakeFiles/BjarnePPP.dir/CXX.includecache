@@ -7,8 +7,12 @@
 #IncludeRegexTransform: 
 
 /home/tjisana/Polygot/C_Cpp/BjarnePPP/CppProgrammingLanguage.cpp
+
+/home/tjisana/Polygot/C_Cpp/BjarnePPP/Date.cpp
+Date.h
+/home/tjisana/Polygot/C_Cpp/BjarnePPP/Date.h
+
+/home/tjisana/Polygot/C_Cpp/BjarnePPP/Date.h
 iostream
--
-vector
 -
 
