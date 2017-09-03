@@ -241,5 +241,5 @@ ModelManifest.xml
 # FAKE - F# Make
 .fake/
 
-/BjarnePPP/cmake-build-debug
-/FEDuffy/cmake-build-debug
+/C_Cpp/BjarnePPP/cmake-build-debug
+/C_Cpp/FEDuffy/cmake-build-debug
