@@ -1,22 +1,25 @@
-#include <iostream>
+template<class T>
+class vector {
+    T* elem;
+// ...
+public:
+    T& operator[](int i) { return elem[i]; }
+// return reference to element
+    const T& operator[](int i) const { return elem[i]; } // return reference to const element
 
-using namespace std;
+};
+
+void f(const vector<double>& v)
+{
+    double d1 = v[1];
+// copy the value of the double referred to by v.operator[](1) into d1
+    v[2] = 7;
+// place 7 in the double referred to by the result of v.operator[](2)
+
+// give push_back() a reference to d1 to wor k with
+}
+
 int main(int argc, char** argv) {
-    cout<<"Please enter number in range [1-10]\n";
-    int n=0;
-    while(true){
-        cin>>n;
-        if(cin){ //got an integer
-            if(1<=n && n<=10) break;
-            cout<<"Not in range\n";
-        }
-        else if(cin.fail()){
-            cin.clear(); //clears state back to good()
-            cout<<"That was not a number\n";
-            for(char ch;cin>>ch && !isdigit(ch);) //throw away non digits
-                cout<<"Something\n";
-
-        }
-    }
+    
     return 0;
 }
