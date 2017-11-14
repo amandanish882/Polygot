@@ -1,0 +1,29 @@
+Chapter 6
+BOOLS
+
+bool b = p;
+bool b2 {p!=nullptr};
+true ;
+// narrows to true or false
+// explicit test against nullptr
+
+I prefer if (p) over if (p!=nullptr) because it more directly expresses the notion ‘‘if p is valid’’ and also
+because it is shorter. The shorter form leaves fewer opportunities for mistakes.
+
+Chapter 2
+In general, static_assert(A,S) prints S as a compiler error message if A is not true .
+The most important uses of static_assert come when we make assertions about types used as
+parameters in generic programming (§5.4.2, §24.3).
+For runtime-checked assertions, see §13.4
+
+
+Chapter 3
+Page 61
+Many useful operations do not require direct access to the representation of complex , so they
+can be defined separately from the class definition
+complex operator+(complex a, complex b) { return a+=b; }
+complex operator−(complex a, complex b) { return a−=b; }
+complex operator−(complex a) { return {−a.real(), −a.imag()}; }
+complex operator∗(complex a, complex b) { return a∗=b; }
+complex operator/(complex a, complex b) { return a/=b; }
+

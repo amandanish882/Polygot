@@ -12,15 +12,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afeae15d-de3c-47af-ba9f-cedd0018fde0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Circle.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Less_than.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Myclass.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Point.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Shape.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Smiley.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vec.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vec.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vector.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CppProgrammingLang.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C3E4.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C3E9.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C4E10.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C4E19.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C4E3.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C4E5.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C5E7.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C5E8.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C5S5_6.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C6.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C8_2_3.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C8_5.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C8_7.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C9.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Circle.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Date.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Date.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Less_than.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Myclass.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Point.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Practice.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Rational.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Rational.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Shape.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Smiley.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Vec.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Vec.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Vector.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/complex.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/complex.h" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CppProgrammingLanguage.cpp" afterPath="$PROJECT_DIR$/CppProgrammingLanguage.cpp" />
@@ -48,14 +70,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CppProgrammingLanguage.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CppProgrammingLanguage.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CppProgrammingLanguage.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            <state relative-caret-position="272">
+              <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               <folding>
-                <element signature="e#8#17#0" expanded="true" />
+                <element signature="e#1#20#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vector.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vector.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CppProgrammingLang.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CppProgrammingLang.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -99,17 +141,18 @@
         <option value="$PROJECT_DIR$/Date.cpp" />
         <option value="$PROJECT_DIR$/Rational.cpp" />
         <option value="$PROJECT_DIR$/Rational.h" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/complex.h" />
         <option value="$PROJECT_DIR$/Point.h" />
         <option value="$PROJECT_DIR$/Shape.h" />
         <option value="$PROJECT_DIR$/Circle.h" />
         <option value="$PROJECT_DIR$/Smiley.h" />
         <option value="$PROJECT_DIR$/Myclass.h" />
-        <option value="$PROJECT_DIR$/Vector.h" />
         <option value="$PROJECT_DIR$/Vec.h" />
         <option value="$PROJECT_DIR$/Vec.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Vector.h" />
         <option value="$PROJECT_DIR$/CppProgrammingLanguage.cpp" />
+        <option value="$PROJECT_DIR$/CppProgrammingLang.txt" />
       </list>
     </option>
   </component>
@@ -451,7 +494,9 @@
       <workItem from="1504403522871" duration="8451000" />
       <workItem from="1504461605758" duration="2508000" />
       <workItem from="1504588315510" duration="160000" />
-      <workItem from="1506831264299" duration="94000" />
+      <workItem from="1506831264299" duration="1268000" />
+      <workItem from="1510552203728" duration="12000" />
+      <workItem from="1510552238399" duration="1992000" />
     </task>
     <task id="LOCAL-00001" summary="sync">
       <created>1494101866907</created>
@@ -471,25 +516,25 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83048000" />
+    <option name="totallyTimeSpent" value="86226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="375" y="269" width="3000" height="1899" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32666665" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872164" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32666665" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32666665" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872164" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38545454" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32666665" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -531,57 +576,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/C4E19.cpp</url>
-          <line>24</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/C4E19.cpp</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/C6.cpp</url>
-          <line>128</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/C9.cpp</url>
-          <line>21</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/C8_7.cpp</url>
-          <line>39</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/CppProgrammingLanguage.cpp</url>
-          <line>11</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="21" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/std_lib_facilities.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C9.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="851">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/C3E4.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="703">
@@ -820,14 +819,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/complex.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -874,7 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -882,7 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -890,17 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vector.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="e#125#137#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -908,9 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="e#97#109#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -918,14 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="30" column="43" lean-forward="false" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
-          <folding>
-            <element signature="e#66#78#0" expanded="true" />
-            <element signature="e#131#143#0" expanded="true" />
-            <element signature="e#191#203#0" expanded="true" />
-            <element signature="e#267#279#0" expanded="true" />
-            <element signature="e#355#367#0" expanded="true" />
-            <element signature="e#454#466#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -933,17 +900,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vector.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CppProgrammingLanguage.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="272">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           <folding>
-            <element signature="e#8#17#0" expanded="true" />
+            <element signature="e#1#20#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CppProgrammingLang.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
